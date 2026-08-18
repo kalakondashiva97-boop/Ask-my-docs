@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What caused the 2008 financial crisis?",
+    "expected_source_doc": "2008 financial crisis"
+  },
+  {
+    "question": "What was the Bretton Woods system?",
+    "expected_source_doc": "Bretton Woods system"
+  },
+  {
+    "question": "What did the Federal Reserve do during the Great Depression?",
+    "expected_source_doc": "Federal Reserve"
+  },
+  {
+    "question": "When did the Great Depression begin?",
+    "expected_source_doc": "Great Depression"
+  },
+  {
+    "question": "How did ancient civilizations first use banking?",
+    "expected_source_doc": "History of banking"
+  },
+  {
+    "question": "What role did subprime mortgages play in the 2008 crisis?",
+    "expected_source_doc": "2008 financial crisis"
+  },
+  {
+    "question": "Why did countries abandon the Bretton Woods system?",
+    "expected_source_doc": "Bretton Woods system"
+  },
+  {
+    "question": "What was the unemployment rate during the Great Depression?",
+    "expected_source_doc": "Great Depression"
+  }
+]

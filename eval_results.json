@@ -1,0 +1,98 @@
+{
+  "retrieval_accuracy": 1.0,
+  "citation_validity": 1.0,
+  "passed": true,
+  "results": [
+    {
+      "question": "What caused the 2008 financial crisis?",
+      "expected_source_doc": "2008 financial crisis",
+      "retrieved_docs": [
+        "History of banking",
+        "2008 financial crisis"
+      ],
+      "retrieval_hit": true,
+      "answer": "{\n  \"answer\": \"The 2008 financial crisis was a major worldwide financial crisis centered in the United States, precipitated by the bursting of the U.S. housing bubble and the subsequent subprime mortgage crisis, which arose from high default and foreclosure rates on mortgage loans, particularly adjustable-rate mortgages [1]. Its causes included excessive speculation on property values by both homeowners and financial institutions, which led to the 2000s United States housing bubble, exacerbated by predatory lending for subprime mortgages and deficiencies in regulation [2]. Cash-out refinancings had fueled a rise in consumption that became unsustainable once home prices declined [2]. The first phase was the subprime mortgage crisis beginning in early 2007, when mortgage-backed securities tied to U.S. real estate and related derivatives collapsed in value, spreading into a liquidity crisis that climaxed with the bankruptcy of Lehman Brothers in September 2008 [2]. Contributing factors included legislation in the 1990s intended to expand affordable housing through looser financing rules, and the 1999 repeal of parts of the Glass–Steagall Act, which allowed institutions to combine low-risk commercial banking and insurance with higher-risk investment banking and proprietary trading [2]. As the Federal Reserve lowered the federal funds rate from 2000 to 2003, institutions increasingly targeted low-income homebuyers with high-risk loans, a trend that regulators failed to address, and when interest rates rose from 2004 to 2006, mortgage costs increased, housing demand fell, and subprime borrowers began defaulting in early 2007 [2]. The Financial Crisis Inquiry Commission concluded the crisis was avoidable and resulted from widespread failures in financial regulation and supervision, including the Federal Reserve's failure to stem toxic assets, dramatic failures of corporate governance and risk management at major financial institutions, excessive borrowing, risky investments, and lack of transparency, ill-prepared and inconsistent government action, a systemic breakdown in accountability and ethics, collapsing mortgage-lending standards and securitization practices, deregulation of over-the-counter derivatives such as credit default swaps, and failures of credit rating agencies to correctly price risk [1]. The Levin–Coburn Report similarly concluded the crisis resulted from high-risk, complex financial products, undisclosed conflicts of interest, and failures of regulators, credit rating agencies, and the market to rein in Wall Street excesses [1]. Economist John Quiggin argued the crisis was entirely a product of financial markets, political decisions to lightly regulate them, and rating agencies with self-interested incentives to issue favorable ratings [5]. Easy credit conditions also played a role, as the Federal Reserve lowered the federal funds rate from 6.5% to 1.0% between 2000 and 2003 to counter the dot-com bubble collapse, the September 11 attacks",
+      "num_citations": 0,
+      "citation_validity": 1.0
+    },
+    {
+      "question": "What was the Bretton Woods system?",
+      "expected_source_doc": "Bretton Woods system",
+      "retrieved_docs": [
+        "Bretton Woods system"
+      ],
+      "retrieval_hit": true,
+      "answer": "{\n  \"answer\": \"The Bretton Woods system was a monetary management system that established rules for commercial and financial relations among 44 countries, including the United States, Canada, European nations, and Australia, following the 1944 Bretton Woods Agreement, and it lasted until the Jamaica Accords in 1976 [1]. It was the first fully negotiated monetary order designed to govern monetary relations among independent states [1]. Under this system, countries were required to guarantee the convertibility of their currencies into U.S. dollars, with the dollar itself convertible into gold bullion for foreign governments and central banks [1]. The system aimed to foster greater cooperation among countries to prevent future competitive currency devaluations, leading to the establishment of the International Monetary Fund (IMF) to monitor exchange rates and provide loans to countries facing balance of payments deficits [1]. It also led to the creation of the International Bank for Reconstruction and Development (IBRD), which is now part of the World Bank Group [1]. According to economist Barry Eichengreen, the system functioned successfully due to low international capital mobility, strict financial regulation, and the dominant economic and financial position of the United States and the dollar [1]. The system emerged from the Bretton Woods Conference held at the Mount Washington Hotel in New Hampshire from July 1 to 22, 1944, where delegates from 44 Allied nations negotiated and ultimately signed the agreement [1]. The United States, which controlled two-thirds of the world's gold at the time, insisted that the system be based on both gold and the U.S. dollar [1]. The system used a fixed exchange rate mechanism, requiring member countries to maintain sufficient foreign exchange reserves to intervene in markets and prevent fluctuations from pegged rates, and changes in currency value greater than 10% required IMF approval [4]. The conference also sought to avoid the economic warfare and closed markets that characterized the 1930s, emphasizing the need for an institutional forum for international monetary cooperation [4].\",\n  \"citations\": [\n    {\"claim\": \"Established rules for commercial relations among 44 countries after 1944 until 1976\", \"source_number\": 1},\n    {\"claim\": \"First fully negotiated monetary order among independent states\", \"source_number\": 1},\n    {\"claim\": \"Required convertibility of currencies into U.S. dollars, dollar convertible to gold\", \"source_number\": 1},\n    {\"claim\": \"Established the IMF to monitor exchange rates and lend to deficit countries\", \"source_number\": 1},\n    {\"claim\": \"Led to creation of IBRD, now part of World Bank Group\", \"source_number\": 1},\n    {\"claim\": \"Eichengreen's three factors for system's success\", \"source_number\": 1},\n    {\"claim\": \"Details of Bretton Woods Conference in 1944\", \"source_number\": 1},\n    {\"claim\": \"U.S. control of two-thirds of world's gold and insistence on gold-dollar basis\", \"source_number\": 1},\n    {\"claim\": \"Fixed exchange",
+      "num_citations": 0,
+      "citation_validity": 1.0
+    },
+    {
+      "question": "What did the Federal Reserve do during the Great Depression?",
+      "expected_source_doc": "Federal Reserve",
+      "retrieved_docs": [
+        "Federal Reserve",
+        "Great Depression"
+      ],
+      "retrieval_hit": true,
+      "answer": "During the Great Depression, the Federal Reserve failed to take aggressive action to stop the crisis: it did not lower interest rates, did not increase the monetary base, and did not inject liquidity into the banking system, effectively watching a normal recession turn into the Great Depression [2]. It allowed a monetary contraction of about 35%, contributing to a 33% drop in prices [2]. The Fed also permitted large public bank failures, such as that of the Bank of United States, which caused panic and widespread bank runs, and it did not intervene with emergency lending or open market bond purchases that could have prevented further bank collapses [2]. Federal Reserve Governor Ben Bernanke later acknowledged in 2002 that the Fed was responsible for causing the Great Depression through these actions [2]. Some economists also argue the Fed had earlier expanded the money supply during the 1920s, creating an unsustainable credit boom, and then tightened policy in 1928, too late to prevent the ensuing contraction [3]. Additionally, many Federal Reserve policymakers adhered to a 'liquidationist' position, believing that allowing failed businesses and investments to collapse would ultimately benefit the economy, a stance later criticized as having worsened the Depression [4].",
+      "num_citations": 6,
+      "citation_validity": 1.0
+    },
+    {
+      "question": "When did the Great Depression begin?",
+      "expected_source_doc": "Great Depression",
+      "retrieved_docs": [
+        "Great Depression"
+      ],
+      "retrieval_hit": true,
+      "answer": "The Great Depression began in 1929, starting in the United States, with the Wall Street crash of 1929 often considered its beginning [1]. Specifically, the stock market crash unfolded in October 1929, including Black Thursday on 24 October, Black Monday on 28 October, and Black Tuesday, which marked the peak of the panic [4].",
+      "num_citations": 3,
+      "citation_validity": 1.0
+    },
+    {
+      "question": "How did ancient civilizations first use banking?",
+      "expected_source_doc": "History of banking",
+      "retrieved_docs": [
+        "History of banking"
+      ],
+      "retrieval_hit": true,
+      "answer": "{\n  \"answer\": \"Early banking activities emerged from temple and palace record-keeping, with trade payment records appearing around 3200 BCE, and by 2000 BCE Babylonians paid fees on gold deposits while temples and palaces issued loans, often in the form of seed-grain repaid from harvests [1]. The Code of Hammurabi (c. 1700 BCE) shows that banking was developed enough to require regulation [1]. More broadly, the earliest 'banks' were merchants who gave grain loans to farmers and traders moving goods between cities around 2000 BCE in Assyria, India, and Sumer [2]. In ancient Greece and Rome, lenders based in temples gave loans while also accepting deposits and exchanging money [2], and Greek and Egyptian archaeological evidence also points to money lending in ancient China and India [2]. In Egypt, a grain-banking system developed that some scholars compare to modern banks in scale, later evolving under the Ptolemies into a network of banks centered in Alexandria that functioned as one of the earliest known central banks [3]. In Greece, temples such as those to Artemis in Ephesus, Hera in Samos, and Apollo in Delphi served as safe-keeping treasuries where deposits, currency exchange, coin validation, and loans took place [4], and trapezites became the first to trade using money in the 5th century BCE [4]. In Rome, banking activities were closely tied to temples, including coin minting at the Juno Moneta temple, and by 352 BCE a rudimentary public bank (dēmosía trápeza) was created to manage debt among the lower classes, with deposit bankers known as argentarii operating from benches called bancu, from which the word 'bank' derives [5]. In China, standardized coinage introduced during the Qin dynasty (221–206 BCE) enabled easier trade and led merchants to issue letters of credit, functioning much like early banks [3].\",\n  \"citations\": [\n    {\"claim\": \"Trade payment records appeared around 3200 BCE\", \"source_number\": 1},\n    {\"claim\": \"Babylonians paid deposit fees and temples/palaces issued loans like seed-grain by 2000 BCE\", \"source_number\": 1},\n    {\"claim\": \"Code of Hammurabi regulated banking activity\", \"source_number\": 1},\n    {\"claim\": \"Earliest banks were grain-lending merchants around 2000 BCE in Assyria, India, and Sumer\", \"source_number\": 2},\n    {\"claim\": \"Temple-based lenders in Greece and Rome gave loans and accepted deposits\", \"source_number\": 2},\n    {\"claim\": \"Evidence of money lending in ancient China and India\", \"source_number\": 2},\n    {\"claim\": \"Egyptian grain-banking system compared to modern banks\", \"source_number\": 3},\n    {\"claim\": \"Ptolemaic Alexandria banks functioned as early central bank\", \"source_number\": 3},\n    {\"claim\": \"Chinese standardized coinage under Qin dynasty led to",
+      "num_citations": 0,
+      "citation_validity": 1.0
+    },
+    {
+      "question": "What role did subprime mortgages play in the 2008 crisis?",
+      "expected_source_doc": "2008 financial crisis",
+      "retrieved_docs": [
+        "Federal Reserve",
+        "2008 financial crisis"
+      ],
+      "retrieval_hit": true,
+      "answer": "{\n  \"answer\": \"Subprime mortgages were central to the 2008 financial crisis. Predatory lending for subprime mortgages, combined with excessive speculation on property values, helped drive the 2000s United States housing bubble, and the first phase of the crisis was itself known as the subprime mortgage crisis, which began in early 2007 [1]. Mortgage-backed securities and derivatives tied to these mortgages collapsed in value, spreading a liquidity crisis to global institutions by mid-2007 and eventually triggering the bankruptcy of Lehman Brothers, a stock market crash, and bank runs [1]. As the Federal Reserve lowered the federal funds rate from 2000 to 2003, institutions increasingly targeted low-income homebuyers, largely belonging to racial minorities, with high-risk subprime loans, a trend that went unattended by regulators [1]. High delinquency and default rates among homeowners, particularly those with subprime credit, led to a rapid devaluation of mortgage-backed securities, including bundled loan portfolios, derivatives, and credit default swaps [3]. Securitization allowed many subprime mortgages to be bundled into new financial instruments, shifting risk and encouraging lax underwriting standards, since lenders could pass mortgages and their associated risks on to others, and these bundles could be sold as ostensibly low-risk securities partly because they were backed by credit default swap insurance [3]. Lax regulation allowed predatory lending in the private sector, especially after the federal government overrode anti-predatory state laws in 2004, and reckless lending by firms such as Bank of America's Countrywide Financial unit was increasingly incentivized and even mandated by government regulation [3]. As interest rates rose from 2004 to 2006, the cost of mortgages rose and demand for housing fell, and in early 2007 more U.S. subprime mortgage holders began defaulting on their repayments, causing lenders to face difficulties [1]. Timeline events illustrate the unfolding crisis: increased delinquency rates in subprime lending led Freddie Mac to say it would stop investing in certain subprime loans, and New Century, a real estate investment trust specializing in subprime lending and securitization, filed for bankruptcy in April 2007, which propagated the subprime mortgage crisis [5]. Bear Stearns also had to bail out two of its hedge funds that had $20 billion of exposure to collateralized debt obligations including subprime mortgages before liquidating them [5]. Regarding the Community Reinvestment Act (CRA), which required banks to grant mortgages to higher-risk families, Federal Reserve economists in 2009 found that only a small portion of subprime mortgage originations related to the CRA and that CRA-related loans performed comparably to other subprime loans, findings that run counter to claims the CRA substantively contributed to the mortgage crisis [3]. However, other data show that in the run-up to the crisis, fully 25% of all subprime lending occurred at CR",
+      "num_citations": 0,
+      "citation_validity": 1.0
+    },
+    {
+      "question": "Why did countries abandon the Bretton Woods system?",
+      "expected_source_doc": "Bretton Woods system",
+      "retrieved_docs": [
+        "Bretton Woods system"
+      ],
+      "retrieval_hit": true,
+      "answer": "The Bretton Woods system began to unravel because it depended on the United States being able to maintain the dollar's convertibility into gold, and this became unsustainable. On 15 August 1971, the United States ended the convertibility of the US dollar to gold, effectively bringing the Bretton Woods system to an end and turning the dollar into a fiat currency [2]. This action was followed by many countries allowing their currencies to float freely rather than remain fixed [2]. Pressure had been building because the dollar's price in the free gold market kept creating strain on its official rate, and after a 10% devaluation was announced in February 1973, Japan and the EEC countries decided to let their currencies float, which marked the beginning of the collapse of the system [4]. By the early 1980s, all industrialised states had moved to floating currencies [4], and the formal end of Bretton Woods was ratified by the Jamaica Accords in 1976 [2][4]. Underlying structural issues also contributed: maintaining the fixed exchange system required countries to hold large foreign exchange reserves to intervene in markets and defend their pegged rates, which limited how much international capital could move without risking costly interventions and depletion of reserves [3]. Additionally, the growth of Eurodollars increased capital flows in ways that challenged the regulation of capital movements underpinning the system [2]. Critics also note that the system's heavy reliance on the U.S. dollar gave the United States more freedom to act than other countries, while fixed exchange rates constrained major economies like those in Europe and Japan in responding to inflation and shifting trade conditions, adding further strain that contributed to the system's abandonment [2].",
+      "num_citations": 8,
+      "citation_validity": 1.0
+    },
+    {
+      "question": "What was the unemployment rate during the Great Depression?",
+      "expected_source_doc": "Great Depression",
+      "retrieved_docs": [
+        "Great Depression"
+      ],
+      "retrieval_hit": true,
+      "answer": "Unemployment rates during the Great Depression varied significantly by country and year. In the United States, the unemployment rate rose to about 25% by 1933 [1], and it remained around 15% in 1940, down from that 1933 peak [3]. It had also risen sharply from 14.3% in 1937 to 19.0% in 1938 during the recession of 1937–38 [4]. In Germany, unemployment climbed to nearly 30% [1]. Australia recorded a record unemployment rate of 29% in 1932 [2], while Canada's unemployment reached 27% in 1933 [2]. In Britain, unemployment more than doubled from 1 million to 2.5 million (20% of the insured workforce) by the end of 1930 [5], and in Glasgow specifically, 30% of the population was unemployed by 1933 due to the collapse of heavy industry [5].",
+      "num_citations": 8,
+      "citation_validity": 1.0
+    }
+  ]
+}
